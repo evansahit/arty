@@ -1,4 +1,5 @@
 # arty-website
+A Vue.js 3 website (also using the Composition API) utilizing the [Art Institute of Chicago API](https://api.artic.edu/docs/) to display artworks and their details.
 
 ## Project setup
 
